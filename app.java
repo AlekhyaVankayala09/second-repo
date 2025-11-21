@@ -16,3 +16,7 @@ public class Main {
     System.out.println("Hello World");
   }
 }
+
+
+// This line prints "Hello, World!" to the console
+        System.out.println("Hello, World!");
